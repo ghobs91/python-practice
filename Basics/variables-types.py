@@ -1,3 +1,6 @@
+# printing
+print("Hello, world!")
+
 # Integers
 myint = 7
 print(myint)
